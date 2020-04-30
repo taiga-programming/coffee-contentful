@@ -12,7 +12,7 @@
 //           title
 //           price
 //           image {
-//             fluid(maxWidth: 500,maxHeight: 426) {
+//             fluid(maxHeight: 426) {
 //               src
 //               ...GatsbyContentfulFluid_tracedSVG
 //             }
