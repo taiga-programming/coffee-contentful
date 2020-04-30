@@ -17,6 +17,7 @@ export default function Product({ product }) {
           data-item-image={product.image.fluid.src}
           data-item-url="http://localhost:8000"
           >
+            
             add to cart
           </button>
         </div>
