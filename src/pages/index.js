@@ -34,7 +34,7 @@ export const query =  graphql`
     "jakub-kapusnak-1LaCrYx5J7I-unsplash.jpg"}) {
     childImageSharp{
       fluid{
-        ...GatsbyImageSharpFluid_tracedSVG
+        ...GatsbyImageSharpFluid
       }
     }
   }
