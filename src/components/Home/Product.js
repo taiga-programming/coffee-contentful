@@ -15,7 +15,7 @@ export default function Product({ product }) {
           data-item-name={product.title}
           data-item-price={product.price}
           data-item-image={product.image.fluid.src}
-          data-item-url="https://determined-wescoff-aef822.netlify.app/"
+          data-item-url="http://localhost:8000/"
           >
             add to cart
           </button>
