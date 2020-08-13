@@ -1,4 +1,4 @@
-{  
+{
   "homepage": "https://taiga-programming.github.io/coffee-contentful",
   "name": "gatsby-starter-default",
   "private": true,
@@ -6,6 +6,7 @@
   "version": "0.1.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
+    "dotenv": "^8.2.0",
     "gatsby": "^2.0.118",
     "gatsby-background-image": "^1.1.1",
     "gatsby-image": "^2.0.29",
@@ -14,7 +15,7 @@
     "gatsby-plugin-react-helmet": "^3.0.6",
     "gatsby-plugin-sharp": "^2.0.20",
     "gatsby-plugin-snipcart": "^1.1.2",
-    "gatsby-source-contentful": "^2.2.10",
+    "gatsby-source-contentful": "^2.3.37",
     "gatsby-source-filesystem": "^2.0.20",
     "gatsby-transformer-sharp": "^2.1.13",
     "prop-types": "^15.6.2",
@@ -28,7 +29,7 @@
   ],
   "license": "MIT",
   "scripts": {
-    "predeploy":"npm run build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "build": "gatsby build",
     "develop": "gatsby develop",
