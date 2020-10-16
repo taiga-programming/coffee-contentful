@@ -17,7 +17,7 @@
     "gatsby-plugin-snipcart": "^1.1.2",
     "gatsby-source-contentful": "^2.3.37",
     "gatsby-source-filesystem": "^2.0.20",
-    "gatsby-transformer-sharp": "^2.1.13",
+    "gatsby-transformer-sharp": "^2.5.18",
     "prop-types": "^15.6.2",
     "react": "^16.8.0",
     "react-dom": "^16.8.0",
